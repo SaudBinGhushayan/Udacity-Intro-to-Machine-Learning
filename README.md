@@ -8,6 +8,7 @@ In this project I'm going to apply the Supervised Machine Learning techniques to
 
 Project 2 :Deep Learning 
 --------------------------------
+In this project I created a Classifier from the scratch and applied it on the `CIFAR-10` dataset (images dataset) , I was able to classify the images in the dataset and my classifier got accuracy around 74% 
 
 Project 3 :Unsupervised Machine Learning
 -----------------------------------
