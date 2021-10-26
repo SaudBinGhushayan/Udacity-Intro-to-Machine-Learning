@@ -12,4 +12,4 @@ In this project I created a Classifier from the scratch and applied it on the `C
 
 Project 3 :Unsupervised Machine Learning
 -----------------------------------
-In this project I was able to identify a customer segment for a mail-order company using population data 
+In this project I was able to identify a customer segment for a mail-order company based on a population data 
